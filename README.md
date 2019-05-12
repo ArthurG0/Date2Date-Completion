@@ -11,4 +11,7 @@ TODAY shows how much has already passed since 0:00 on a given date
 
 Finally, clicking "COMPUTE" will output the percentage and show progress on a bar.
 
+Screenshot: 
+![alt text](https://github.com/ArthurG0/Date2Date-Completion/blob/master/2019-05-12_13-17-29.png "Date2Date Completion example screenshot")
+
 
